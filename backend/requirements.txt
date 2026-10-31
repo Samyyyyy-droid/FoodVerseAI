@@ -33,3 +33,5 @@ httpx
 
 # Testing and Quality Assurance
 pytest
+
+gunicorn
