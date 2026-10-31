@@ -1,0 +1,35 @@
+
+# ==================================================
+# Food Verse AI - Python Dependencies
+# ==================================================
+
+# Backend Framework and API Development
+fastapi
+uvicorn[standard]
+python-multipart
+
+# AI and Large Language Model Integration
+groq
+
+# Computer Vision and Image Processing
+opencv-python-headless
+Pillow
+numpy
+
+# Audio Processing and Speech Recognition
+SpeechRecognition
+pydub
+
+# Data Processing and Numerical Operations
+pandas
+
+# Configuration Management and Data Validation
+python-dotenv
+pydantic
+
+# HTTP Requests and API Communication
+requests
+httpx
+
+# Testing and Quality Assurance
+pytest
