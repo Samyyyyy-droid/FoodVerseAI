@@ -7,7 +7,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://foodverseai-9c5t.onrender.com";
 
 const modules = [
   { id: "dashboard", name: "Dashboard", icon: LayoutDashboard },
